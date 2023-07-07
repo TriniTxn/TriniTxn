@@ -1,4 +1,4 @@
--- pt-BR
+-- pt-BR 🔵🟢🟡
 # Seja muito bem-vindo!
 
 Espero que tire ótimos proveitos de meu GitHub. 
@@ -14,8 +14,8 @@ Apenas lembre-se de manter o respeito. (☞ﾟヮﾟ)☞
 
 - https://github.com/TriniTxn/Atvd-RM550303 - 06/07/2023
 
--- en
-# Welcome to my GitHub
+-- en 🔵🔴⚪
+# Welcome to my GitHub! 
 
 I hope you take great advantage of my GitHub. 
 
