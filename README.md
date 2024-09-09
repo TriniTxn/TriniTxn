@@ -10,10 +10,6 @@ Meu perfil está aberto para que comente, avalie e para que dê a sua sugestão!
 Toda crítica construtiva é bem-vinda!
 Apenas lembre-se de manter o respeito. (☞ﾟヮﾟ)☞
 
-## Projetos da minha caminhada!
-
-- https://github.com/TriniTxn/Atvd-RM550303 - 06/07/2023
-
 -- en 🔵🔴⚪
 # Welcome to my GitHub! 
 
@@ -25,10 +21,6 @@ My profile is open for you to comment, evaluate, and provide your suggestions!
 
 All constructive criticism is welcome!
 Just remember to maintain respect. (☞ﾟヮﾟ)☞
-
-## Projects along my career!
-
-- https://github.com/TriniTxn/Atvd-RM550303 - 06/07/2023
 
 ## About
 
