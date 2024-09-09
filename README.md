@@ -29,3 +29,5 @@ Just remember to maintain respect. (☞ﾟヮﾟ)☞
 ## Projects along my career!
 
 - https://github.com/TriniTxn/Atvd-RM550303 - 06/07/2023
+
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=TriniTxn&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
