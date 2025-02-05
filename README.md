@@ -1,27 +1,30 @@
--- pt-BR 🔵🟢🟡
-# Seja muito bem-vindo!
+# Welcome to my profile
 
-Espero que tire ótimos proveitos de meu GitHub. 
+I'm a passionate BackEnd developer from Brazil
 
-Aqui apresento meus projetos na qual desenvolvo/estou desenvolvendo, em minha carreira como um dev.
+**About me**
 
-Meu perfil está aberto para que comente, avalie e para que dê a sua sugestão!
+- 💼 Support Assistant at [Piticas](http://piticas.com.br/)
 
-Toda crítica construtiva é bem-vinda!
-Apenas lembre-se de manter o respeito. (☞ﾟヮﾟ)☞
+- 📈 Learning a lot about the art of Programming
 
--- en 🔵🔴⚪
-# Welcome to my GitHub! 
+- 💬 Contact me [here](https://mail.google.com/mail/u/0/#inbox?compose=CllgCJfrLTZdvNGPMkWpwrChNqNvcNMxdrkGTdfkZDMhfxPbHJLjXbKZsWHnnhXTPTlkqRfLNpL)
 
-I hope you take great advantage of my GitHub. 
+<code><img height="40" alt="javascript" src="https://skillicons.dev/icons?i=java,spring,js,py,azure,mongodb,mysql,docker,git,github,postman"></code>
 
-Here, I present my projects that I have developed/still developing in my career as a dev.
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=TriniTxn&theme=dark&hide=issues" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=TriniTxn&layout=compact&theme=dark&langs_count=8&card_width=320" />
+</a>
 
-My profile is open for you to comment, evaluate, and provide your suggestions!
+## Some projects that i've been working on
 
-All constructive criticism is welcome!
-Just remember to maintain respect. (☞ﾟヮﾟ)☞
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=140 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TriniTxn&repo=cryptoBOT&show_icons=true&theme=dark&layout=compact&card_width=320" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=140 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TriniTxn&repo=Tarket&show_icons=true&theme=dark&layout=compact&card_width=320" />
+</a>
 
-## About
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TriniTxn&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
