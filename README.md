@@ -4,7 +4,7 @@ I'm a passionate BackEnd developer from Brazil
 
 **About me**
 
-- 💼 Support Assistant at [Piticas](http://piticas.com.br/)
+- 💼 Freelancer
 
 - 📈 Learning a lot about the art of Programming
 
