@@ -24,6 +24,6 @@ I'm a passionate BackEnd developer from Brazil
 <a href="https://github.com/TriniTxn/Tarket">
   <img height=120 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TriniTxn&repo=Tarket&show_icons=true&theme=dark&layout=compact&card_width=320" />
 </a>
-<a href="https://github.com/TriniTxn/cryptoBOT">
-  <img height=120 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TriniTxn&repo=cryptoBOT&show_icons=true&theme=dark&layout=compact&card_width=320" />
+<a href="https://github.com/TriniTxn/Distopy-Market">
+  <img height=120 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TriniTxn&repo=Distopy-Market&show_icons=true&theme=dark&layout=compact&card_width=320" />
 </a>
